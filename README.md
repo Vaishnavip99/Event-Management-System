@@ -1,0 +1,3 @@
+The Event Management System is an interactive transaction based system. It is used for the proper managing of data of specific event may be large or small.The event management system project will work and update the events record,participants record,all expenditure during the event,staff and employee’s
+ record.This could be done by firstly visualizing the event,drawing up a budget,develop a timeline put into plan into proper action,posting of next events.The EMS is a system that will reduce work burden,along with best budget.Thus main outcome is that EMS can create and manage event invitations,confirmation of
+ events,event payments and overall management including check in and creation of event landing pages.
